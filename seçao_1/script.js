@@ -1,0 +1,1 @@
+console.log("Hello Word do script fora do HTML")
